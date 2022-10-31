@@ -1,2 +1,0 @@
-# BasicCoreProgram
-Core
