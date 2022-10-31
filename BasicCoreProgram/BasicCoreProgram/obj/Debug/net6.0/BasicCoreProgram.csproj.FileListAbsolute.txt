@@ -1,0 +1,15 @@
+C:\Users\Syuog\source\repos\BasicCoreProgram\BasicCoreProgram\bin\Debug\net6.0\BasicCoreProgram.exe
+C:\Users\Syuog\source\repos\BasicCoreProgram\BasicCoreProgram\bin\Debug\net6.0\BasicCoreProgram.deps.json
+C:\Users\Syuog\source\repos\BasicCoreProgram\BasicCoreProgram\bin\Debug\net6.0\BasicCoreProgram.runtimeconfig.json
+C:\Users\Syuog\source\repos\BasicCoreProgram\BasicCoreProgram\bin\Debug\net6.0\BasicCoreProgram.dll
+C:\Users\Syuog\source\repos\BasicCoreProgram\BasicCoreProgram\bin\Debug\net6.0\BasicCoreProgram.pdb
+C:\Users\Syuog\source\repos\BasicCoreProgram\BasicCoreProgram\obj\Debug\net6.0\BasicCoreProgram.csproj.AssemblyReference.cache
+C:\Users\Syuog\source\repos\BasicCoreProgram\BasicCoreProgram\obj\Debug\net6.0\BasicCoreProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Syuog\source\repos\BasicCoreProgram\BasicCoreProgram\obj\Debug\net6.0\BasicCoreProgram.AssemblyInfoInputs.cache
+C:\Users\Syuog\source\repos\BasicCoreProgram\BasicCoreProgram\obj\Debug\net6.0\BasicCoreProgram.AssemblyInfo.cs
+C:\Users\Syuog\source\repos\BasicCoreProgram\BasicCoreProgram\obj\Debug\net6.0\BasicCoreProgram.csproj.CoreCompileInputs.cache
+C:\Users\Syuog\source\repos\BasicCoreProgram\BasicCoreProgram\obj\Debug\net6.0\BasicCoreProgram.dll
+C:\Users\Syuog\source\repos\BasicCoreProgram\BasicCoreProgram\obj\Debug\net6.0\refint\BasicCoreProgram.dll
+C:\Users\Syuog\source\repos\BasicCoreProgram\BasicCoreProgram\obj\Debug\net6.0\BasicCoreProgram.pdb
+C:\Users\Syuog\source\repos\BasicCoreProgram\BasicCoreProgram\obj\Debug\net6.0\BasicCoreProgram.genruntimeconfig.cache
+C:\Users\Syuog\source\repos\BasicCoreProgram\BasicCoreProgram\obj\Debug\net6.0\ref\BasicCoreProgram.dll
